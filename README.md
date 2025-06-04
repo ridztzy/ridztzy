@@ -1,1 +1,1 @@
-![snake](https://github.com/ridztzy/ridztzy/blob/main/dist/github-snake-dark.svg)
+![snake svg](https://github.com/ridztzy/ridztzy/blob/output/github-snake-dark.svg)
